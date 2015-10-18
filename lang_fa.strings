@@ -23,7 +23,7 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 
 "lng_menu_contacts" = "مخاطبین";
 "lng_menu_settings" = "تنظیمات";
-"lng_menu_about" = "About";
+"lng_menu_about" = "درباره";
 "lng_menu_update" = "Update";
 "lng_menu_restart" = "Restart";
 "lng_menu_back" = "Back";
