@@ -18,11 +18,11 @@ to link the code of portions of this program with the OpenSSL library.
 Full license: https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE
 Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 */
-"lng_language_name" = "English";
-"lng_switch_to_this" = "Switch to English";
+"lng_language_name" = "فارسی";
+"lng_switch_to_this" = "تغییر به فارسی";
 
-"lng_menu_contacts" = "Contacts";
-"lng_menu_settings" = "Settings";
+"lng_menu_contacts" = "مخاطبین";
+"lng_menu_settings" = "تنظیمات";
 "lng_menu_about" = "About";
 "lng_menu_update" = "Update";
 "lng_menu_restart" = "Restart";
