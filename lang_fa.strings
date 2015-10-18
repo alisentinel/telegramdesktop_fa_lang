@@ -18,7 +18,7 @@ to link the code of portions of this program with the OpenSSL library.
 Full license: https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE
 Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 */
-"lng_language_name" = "فارسی";
+"lng_language_name" = "Persian";
 "lng_switch_to_this" = "تغییر به فارسی";
 
 "lng_menu_contacts" = "مخاطبین";
@@ -33,36 +33,35 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_open_from_tray" = "بازکردن تلگرام";
 "lng_minimize_to_tray" = "tray کوچک کردن در"";
 "lng_quit_from_tray" = "بستن تلگرام";
-"lng_tray_icon_text" = "Telegram is still running here,\nyou can change this from settings page.\nIf this icon disappears from tray menu,\nyou can drag it here from hidden icons.";
+"lng_tray_icon_text" = "تلگرام هنوز در حال اجراست,\nشما میتوانید این را از صفحه تنظیمات تغییر دهید.\n\nاگر این نقشک از منو نقشک ها ناپدید شود,\nشما میتوانید آن را از بخش نقشک های پنهان به اینجا بازگردانید.";
+"lng_month1" = "ژانویه";
+"lng_month2" = "فوریه";
+"lng_month3" = "مارس";
+"lng_month4" = "اپریل";
+"lng_month5" = "مه";
+"lng_month6" = "ژوئن";
+"lng_month7" = "ژوئیه";
+"lng_month8" = "اوت";
+"lng_month9" = "سپتامبر";
+"lng_month10" = "اکتبر";
+"lng_month11" = "نوامبر";
+"lng_month12" = "دسامبر";
 
-"lng_month1" = "January";
-"lng_month2" = "February";
-"lng_month3" = "March";
-"lng_month4" = "April";
-"lng_month5" = "May";
-"lng_month6" = "June";
-"lng_month7" = "July";
-"lng_month8" = "August";
-"lng_month9" = "September";
-"lng_month10" = "October";
-"lng_month11" = "November";
-"lng_month12" = "December";
+"lng_weekday1" = "دوشنبه";
+"lng_weekday2" = "سه شنبه";
+"lng_weekday3" = "چهارشنبه";
+"lng_weekday4" = "پنج شنبه";
+"lng_weekday5" = "جمعه";
+"lng_weekday6" = "شنبه";
+"lng_weekday7" = "یک شنبه";
 
-"lng_weekday1" = "Mon";
-"lng_weekday2" = "Tue";
-"lng_weekday3" = "Wed";
-"lng_weekday4" = "Thu";
-"lng_weekday5" = "Fri";
-"lng_weekday6" = "Sat";
-"lng_weekday7" = "Sun";
-
-"lng_weekday1_full" = "Monday";
-"lng_weekday2_full" = "Tuesday";
-"lng_weekday3_full" = "Wednesday";
-"lng_weekday4_full" = "Thursday";
-"lng_weekday5_full" = "Friday";
-"lng_weekday6_full" = "Saturday";
-"lng_weekday7_full" = "Sunday";
+"lng_weekday1_full" = "دوشنبه";
+"lng_weekday2_full" = "سه شنبه";
+"lng_weekday3_full" = "چهارشنبه";
+"lng_weekday4_full" = "پنجشنبه";
+"lng_weekday5_full" = "جمعه";
+"lng_weekday6_full" = "شنبه";
+"lng_weekday7_full" = "یک شنبه";
 
 "lng_month_day" = "{month} {day}";
 "lng_month_day_year" = "{month} {day}, {year}";
@@ -73,7 +72,7 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_continue" = "Continue";
 "lng_close" = "Close";
 "lng_connecting" = "Connecting..";
-"lng_reconnecting" = "Reconnect {count:now|in # s|in # s}..";
+"lng_reconnecting" = "اتصال مجدد {count:اکنون|در # |در # }..";
 "lng_reconnecting_try_now" = "Try now";
 
 "lng_status_service_notifications" = "service notifications";
@@ -87,18 +86,18 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_status_last_month" = "last seen within a month";
 "lng_status_invisible" = "invisible";
 "lng_status_lastseen_now" = "last seen just now";
-"lng_status_lastseen_minutes" = "last seen {count:_not_used_|# minute|# minutes} ago";
-"lng_status_lastseen_hours" = "last seen {count:_not_used_|# hour|# hours} ago";
-"lng_status_lastseen_today" = "last seen today at {time}";
-"lng_status_lastseen_yesterday" = "last seen yesterday at {time}";
-"lng_status_lastseen_date" = "last seen {date}";
-"lng_status_lastseen_date_time" = "last seen {date} at {time}";
+"lng_status_lastseen_minutes" = "آخرین بازدید {count:_not_used_|# دقیقه|# دقیقه} قبل";
+"lng_status_lastseen_hours" = "آخرین بازدید {count:_not_used_|# ساعت|# ساعت} قبل";
+"lng_status_lastseen_today" = "آخرین بازدید امروز ساعت {time}";
+"lng_status_lastseen_yesterday" = "آخرین بازدید دیروز ساعت {time}";
+"lng_status_lastseen_date" = "آخرین بازدید {date}";
+"lng_status_lastseen_date_time" = "آخرین بازدید {date} در ساعت {time}";
 "lng_status_online" = "online";
 "lng_status_connecting" = "connecting..";
 
 "lng_chat_status_unaccessible" = "group is unaccessible";
-"lng_chat_status_members" = "{count:no members|# member|# members}";
-"lng_chat_status_members_online" = "{count:_not_used_|# member|# members}, {count_online:_not_used_|# online|# online}";
+"lng_chat_status_members" = "{count:بدون عضو|# عضو|# عضو}";
+"lng_chat_status_members_online" = "{count:_not_used_|# عضو|# عضو}, {count_online:_not_used_|# آنلاین|# آنلاین}";
 
 "lng_channel_status" = "channel";
 
@@ -110,7 +109,7 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_deleted" = "Unknown";
 "lng_deleted_message" = "Deleted message";
 
-"lng_intro" = "Welcome to the official [a href=\"https://telegram.org/\"]Telegram[/a] desktop app.\nIt's [b]fast[/b] and [b]secure[/b].";
+"lng_intro" = "به سایت رسمی [a href=\"https://telegram.org/\"]تلگرام[/a] دسکتاپ خوش آمدید.\n [b]سریع[/b] و [b]امن[/b].";
 "lng_start_msgs" = "START MESSAGING";
 
 "lng_intro_next" = "NEXT";
@@ -121,8 +120,8 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 
 "lng_phone_ph" = "Your phone number";
 "lng_phone_title" = "Your Phone";
-"lng_phone_desc" = "Please confirm your country code and\nenter your phone number.";
-"lng_phone_notreg" = "Note: if you don't have a Telegram account yet,\nplease [b]sign up[/b] with your [a href=\"https://telegram.org/\"]iOS / Android[/a] or {signup_start}here »{signup_end}";
+"lng_phone_desc" = "لطفا کد کشور خود را تایید کرده و\nشماره همراه خود را وارد کنید.";
+"lng_phone_notreg" = "توجه: اگر هنوز یک حساب تلگرام ندارید,\nلطفا با [a href=\"https://telegram.org/\"]اندروید / آی او اس[/a] خود  [b]ثبت نام کنید[/b] و یا {signup_start}اینجا »{signup_end}";
 "lng_country_code" = "Country Code";
 "lng_bad_country_code" = "Invalid Country Code";
 "lng_country_ph" = "Search";
