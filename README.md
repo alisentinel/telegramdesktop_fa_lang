@@ -1,3 +1,6 @@
 # telegramdesktop_fa_lang
 
-For Join to Partner Send email to: Blackrouter@mail.ru or send messege via telegram: https://telegram.me/blackrouter
+if like  help to Project.
+
+contributor to Project:
+Send email to: Blackrouter@mail.ru or send messege via telegram: https://telegram.me/blackrouter
