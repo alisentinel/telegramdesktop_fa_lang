@@ -1,4 +1,4 @@
-# telegramdesktop_fa_lang
+# Telegram Desktop Persian Language
 
 if like Help to Translate Language telegram desktop.
 
