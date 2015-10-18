@@ -24,15 +24,15 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_menu_contacts" = "مخاطبین";
 "lng_menu_settings" = "تنظیمات";
 "lng_menu_about" = "درباره";
-"lng_menu_update" = "Update";
-"lng_menu_restart" = "Restart";
-"lng_menu_back" = "Back";
+"lng_menu_update" = "آپدیت";
+"lng_menu_restart" = "ریستارت";
+"lng_menu_back" = "بازگشت";
 
-"lng_disable_notifications_from_tray" = "Disable notifications";
-"lng_enable_notifications_from_tray" = "Enable notifications";
-"lng_open_from_tray" = "Open Telegram";
-"lng_minimize_to_tray" = "Minimize to tray";
-"lng_quit_from_tray" = "Quit Telegram";
+"lng_disable_notifications_from_tray" = "غیرفعال کردن اطلاعیه ها";
+"lng_enable_notifications_from_tray" = "فعال کردن اطلاعیه ها";
+"lng_open_from_tray" = "بازکردن تلگرام";
+"lng_minimize_to_tray" = "tray کوچک کردن در"";
+"lng_quit_from_tray" = "بستن تلگرام";
 "lng_tray_icon_text" = "Telegram is still running here,\nyou can change this from settings page.\nIf this icon disappears from tray menu,\nyou can drag it here from hidden icons.";
 
 "lng_month1" = "January";
